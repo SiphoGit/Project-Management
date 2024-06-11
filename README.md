@@ -1,17 +1,17 @@
 
 # Project Management System
 
-A project management system for a contruction company
+A project management system for a construction company
 
 ## Purpose
-The purpose of this project is to help construction companies manage thier projects,
-customers, contructors, and architects.
+The purpose of this project is to help construction companies manage their projects,
+customers, contractors, and architects.
 
 ## Features
-- Create new project 
+- Create a new project 
 - Store project details in MySQL database.
-- Edit project's details
-- View over-due projects.
+- Edit project details
+- View overdue projects.
 - View in-progress projects.
 - Search project by project name or number.
 - Generate invoice.
